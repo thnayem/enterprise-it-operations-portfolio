@@ -21,6 +21,6 @@ Adapt the templates to the organization's approval matrix, finance and procureme
 
 ## Related technical documentation
 
-- [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization)
+- [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization-portfolio)
 - [Network Engineering](https://github.com/thnayem/network-engineering-portfolio)
 - [Enterprise IT Operations](../README.md)
