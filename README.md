@@ -48,7 +48,7 @@ The management references cover the planning and coordination work behind day-to
 ## Related Technical Portfolios
 
 - [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio) — multi-vendor routing, switching, WAN and network configuration references.
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization) — Windows Server, Ubuntu, VMware, storage, backup and server operations.
+- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio) — Windows Server, Ubuntu, VMware, storage, backup and server operations.
 - [GitHub Profile](https://github.com/thnayem)
 
 ## Documentation Principles
