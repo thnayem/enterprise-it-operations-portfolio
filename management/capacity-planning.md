@@ -9,7 +9,8 @@ Review capacity across:
 - **Network:** internet bandwidth, WAN links, uplinks, switching capacity, Wi-Fi density, VPN and firewall throughput.
 - **Compute:** physical hosts, CPU, memory, virtualization clusters and application workloads.
 - **Storage:** usable capacity, IOPS, latency, growth, retention and backup windows.
-- **Power and cooling:** UPS load, runtime, circuit capacity, rack power and cooling headroom.
+- **Power and energy:** measured kW/kWh consumption, UPS loading and autonomy, generator capacity, solar PV contribution, circuit loading and power quality.
+- **Cooling and physical infrastructure:** IT heat load, cooling capacity, airflow, temperature/humidity, rack U-space, PDU loading and physical growth headroom.
 - **CCTV:** camera count, bitrate, codec, recording schedule, retention, VMS/NVR limits and storage redundancy.
 - **End-user services:** endpoint lifecycle, printer demand, licenses, telephony ports and support workload.
 
@@ -34,8 +35,17 @@ Review capacity across:
 | Compute | CPU ready/usage, memory pressure, host capacity, VM density |
 | Storage | Used and usable capacity, growth rate, IOPS, latency, rebuild and backup windows |
 | CCTV | Aggregate bitrate, concurrent streams, retention days, usable storage, recording health |
-| UPS | Current load, runtime at measured load, battery age, redundancy and maintenance status |
+| UPS / backup power | Load in W/VA, runtime at measured load, battery age, generator transfer, redundancy and maintenance status |
+| Energy / solar | kW demand, kWh consumption, load profile, PV yield, battery usable energy and system losses |
+| Cooling | IT heat load, supply/return temperature, humidity, airflow, cooling capacity and redundancy |
+| Rack / facility | Rack U-space, depth, weight rating, PDU capacity, power feeds and airflow clearance |
 | Printing | Pages per month, cost per page, toner yield, device utilization and service incidents |
+
+## Power, cooling and facility planning
+
+Include measured electrical demand, UPS and battery runtime, generator capacity, solar energy contribution, cooling headroom and rack growth in the same capacity review. Evaluate critical and non-critical loads separately, and validate the power path and environmental design with qualified specialists.
+
+For detailed assessment steps, use the [Power, UPS, Solar, Cooling & Rack Planning guide](power-cooling-rack-planning.md).
 
 ## Forecasting worksheet
 
