@@ -13,6 +13,7 @@ This repository is part of my broader IT infrastructure portfolio. It presents t
 | Fiber Connectivity | Optical links for CCTV and remote sites, SFPs, media converters, fiber troubleshooting |
 | Monitoring | LibreNMS and Cacti deployment concepts, SNMP, device onboarding, graphs, alerts |
 | Email Services | Mail server administration, mailbox/email ID creation, mail flow, DNS records and Outlook setup |
+| End-User & Hardware Support | Printer/scanner/NAS setup, PC/laptop RAM and storage upgrades, Windows installation, diagnostics, troubleshooting and repair |
 | ERP Support | User support, application issue triage, developer coordination, change and incident handling |
 | DBMS & SQL | Relational database fundamentals, read-only query examples, backup/restore and performance basics |
 | Attendance Systems | Face recognition and fingerprint terminals, attendance data flow, synchronization and troubleshooting |
@@ -24,6 +25,7 @@ This repository is part of my broader IT infrastructure portfolio. It presents t
 - [Fiber Connectivity for CCTV](fiber-connectivity/README.md)
 - [LibreNMS & Cacti Monitoring](monitoring/README.md)
 - [Mail Server, Mailbox Creation & Outlook Setup](mail-services/README.md)
+- [Endpoint, Printer, NAS & Hardware Support](endpoint-support/README.md)
 - [ERP Application Support](erp-support/README.md)
 - [DBMS & SQL References](database-sql/README.md)
 - [Face & Fingerprint Attendance](attendance-systems/README.md)
