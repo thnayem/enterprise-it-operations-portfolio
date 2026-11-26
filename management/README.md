@@ -8,6 +8,7 @@ The material is written as practical working references. It describes processes 
 
 - [Capacity planning](capacity-planning.md) — demand, utilization, headroom, lifecycle and upgrade decisions.
 - [Data centre and disaster recovery](data-centre-disaster-recovery.md) — facility controls, dependencies, RPO/RTO, backup and recovery exercises.
+- [Power, UPS, solar, cooling and rack planning](power-cooling-rack-planning.md) — online UPS sizing, backup runtime, generator, energy consumption, solar PV, cooling capacity, airflow, rack layout and maintenance.
 - [Vendor and service management](vendor-management.md) — supplier evaluation, SLA tracking, escalation and renewal planning.
 - [IT asset and inventory management](asset-inventory-management.md) — asset lifecycle, ownership, stock control, audit and reconciliation.
 - [IT procurement](it-procurement.md) — requirements, specifications, quotations, evaluation, approval and acceptance.
