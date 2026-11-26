@@ -17,6 +17,12 @@ This repository is part of my broader IT infrastructure portfolio. It presents t
 | ERP Support | User support, application issue triage, developer coordination, change and incident handling |
 | DBMS & SQL | Relational database fundamentals, read-only query examples, backup/restore and performance basics |
 | Attendance Systems | Face recognition and fingerprint terminals, attendance data flow, synchronization and troubleshooting |
+| IT Management & Team Operations | Capacity planning, service reviews, work prioritization, escalation, stakeholder communication and operational reporting |
+| Data Centre & Disaster Recovery | Facility operations, backup strategy, RPO/RTO planning, recovery dependencies and DR exercises |
+| Vendor & SLA Management | Supplier evaluation, contract and warranty tracking, service reviews and escalation |
+| Asset & Inventory Management | Asset lifecycle, stock control, audits, software entitlements and lifecycle planning |
+| IT Procurement | Requirements, technical specifications, quotation evaluation, TCO and goods acceptance |
+| Toner & Consumables | Printer supply compatibility, usage tracking, reorder levels and stock reconciliation |
 
 ## Repository Structure
 
@@ -30,6 +36,11 @@ This repository is part of my broader IT infrastructure portfolio. It presents t
 - [DBMS & SQL References](database-sql/README.md)
 - [Face & Fingerprint Attendance](attendance-systems/README.md)
 - [Operations Runbooks](operations/README.md)
+- [IT Management & Team Operations](management/README.md) - capacity planning, data centre and DR, vendor/SLA, asset inventory, procurement, toner/consumables and team leadership
+
+## Management & Operational Practices
+
+The management references cover the planning and coordination work behind day-to-day infrastructure operations: forecasting capacity, maintaining service continuity, tracking assets and suppliers, evaluating purchases, controlling consumables and keeping team work visible. They are practical templates that should be adapted to the organization's policies and actual authority structure.
 
 ## Related Technical Portfolios
 
