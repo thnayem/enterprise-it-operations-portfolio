@@ -49,4 +49,4 @@ Do not publish actual management addresses, serial numbers, credentials, phone n
 ## Related Portfolios
 
 - [Network Engineering](https://github.com/thnayem/network-engineering-portfolio)
-- [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization)
+- [System & Server Virtualization](https://github.com/thnayem/system-server-virtualization-portfolio)
