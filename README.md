@@ -19,6 +19,9 @@ This repository is part of my broader IT infrastructure portfolio. It presents t
 | Attendance Systems | Face recognition and fingerprint terminals, attendance data flow, synchronization and troubleshooting |
 | IT Management & Team Operations | Capacity planning, service reviews, work prioritization, escalation, stakeholder communication and operational reporting |
 | Data Centre & Disaster Recovery | Facility operations, backup strategy, RPO/RTO planning, recovery dependencies and DR exercises |
+| Power & Electrical Continuity | Online UPS, backup runtime, generator, power consumption, electrical load and energy monitoring |
+| Solar & Energy Planning | Solar PV assessment, hybrid power, battery storage, usable energy and lifecycle planning |
+| Cooling & Rack Infrastructure | IT heat load, cooling capacity, airflow, environmental monitoring, rack layout and PDU planning |
 | Vendor & SLA Management | Supplier evaluation, contract and warranty tracking, service reviews and escalation |
 | Asset & Inventory Management | Asset lifecycle, stock control, audits, software entitlements and lifecycle planning |
 | IT Procurement | Requirements, technical specifications, quotation evaluation, TCO and goods acceptance |
@@ -36,11 +39,11 @@ This repository is part of my broader IT infrastructure portfolio. It presents t
 - [DBMS & SQL References](database-sql/README.md)
 - [Face & Fingerprint Attendance](attendance-systems/README.md)
 - [Operations Runbooks](operations/README.md)
-- [IT Management & Team Operations](management/README.md) - capacity planning, data centre and DR, vendor/SLA, asset inventory, procurement, toner/consumables and team leadership
+- [IT Management & Team Operations](management/README.md) - capacity planning, data centre and DR, UPS and power continuity, solar, cooling, rack infrastructure, vendor/SLA, asset inventory, procurement, toner/consumables and team leadership
 
 ## Management & Operational Practices
 
-The management references cover the planning and coordination work behind day-to-day infrastructure operations: forecasting capacity, maintaining service continuity, tracking assets and suppliers, evaluating purchases, controlling consumables and keeping team work visible. They are practical templates that should be adapted to the organization's policies and actual authority structure.
+The management references cover the planning and coordination work behind day-to-day infrastructure operations: forecasting capacity, planning power and cooling, maintaining service continuity, tracking assets and suppliers, evaluating purchases, controlling consumables and keeping team work visible. They are practical templates that should be adapted to the organization's policies and actual authority structure.
 
 ## Related Technical Portfolios
 
