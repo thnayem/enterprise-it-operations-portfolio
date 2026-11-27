@@ -11,7 +11,7 @@ Some pages describe areas of practical production experience. Others are example
 
 I make mistakes like anyone else. When something goes wrong, I believe in being clear about what is known, keeping the right people informed, taking responsibility for my part and working toward a safe fix. Blaming someone does not restore a service.
 
-## What you will find
+## What this repository covers
 
 | Area | Topics |
 |---|---|
@@ -28,7 +28,7 @@ I make mistakes like anyone else. When something goes wrong, I believe in being 
 | Power & Cooling | UPS, generator, load, energy monitoring, cooling, airflow and rack planning |
 | Vendor & Asset Operations | Supplier evaluation, SLA, warranty, inventory, procurement and lifecycle tracking |
 
-## Repository map
+## Repository guide
 
 - [IP Telephony](telephony/README.md)
 - [CCTV, NVR & Storage](cctv-nvr/README.md)
@@ -75,5 +75,12 @@ New and updated pages use the [documentation guide](./DOCUMENTATION-GUIDE.md), w
 ## Keep private information private
 
 Do not publish credentials, public IPs, internal hostnames, camera addresses, serial numbers, personal attendance data, customer records or employer-confidential documents. Use sanitized examples and documentation-only address ranges. Check screenshots and configuration snippets before committing them.
+
+## Related portfolios
+
+- [Network Engineering](https://github.com/thnayem/network-engineering-portfolio)
+- [System & Server Administration](https://github.com/thnayem/system-server-virtualization-portfolio)
+- [GitHub profile](https://github.com/thnayem)
+- [LinkedIn](https://www.linkedin.com/in/thnayem/)
 
 Maintained by [Md. Tanvir Hossain](https://github.com/thnayem) · [LinkedIn](https://www.linkedin.com/in/thnayem/)
