@@ -93,3 +93,7 @@ Use clear, factual language. Separate confirmed findings from assumptions.
 ## Continuous improvement
 
 Review recurring incidents, manual tasks, capacity constraints and supplier issues. Agree a small number of improvement actions, assign owners and review progress at the next service meeting.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
