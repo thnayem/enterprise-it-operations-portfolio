@@ -3,13 +3,13 @@
 **Md. Tanvir Hossain**  
 Enterprise IT Infrastructure | Operations | Service Coordination
 
-This repository is about the IT services people rely on every day: communication systems, CCTV, monitoring, business applications, databases, endpoint support and the infrastructure behind them.
+A lot of IT work is not visible until something stops working. Phones go silent, a camera stops recording, a business application becomes slow, or someone cannot get the access they need. This repository covers some of the services and day-to-day work behind those situations: communication systems, CCTV, monitoring, business applications, databases, endpoint support and the infrastructure around them.
 
-My work has not been limited to routers and servers. I have also been involved in keeping office IT services running, following up on issues, coordinating with vendors and helping users get back to work. This repository contains selected notes, learning material, lab examples, troubleshooting scenarios and reusable templates. It does not contain company records, customer information, credentials or confidential configurations.
+My work has not been limited to routers and servers. I have also been involved in keeping office IT services running, following up on issues, coordinating with vendors and helping users get back to work. I use this repository to keep selected notes, learning material, lab examples, troubleshooting scenarios and reusable templates. It does not contain company records, customer information, credentials or confidential configurations.
 
-Some pages describe areas of practical production experience. Others are examples created to explain a process or help me learn. A sample checklist or workflow is not evidence that a particular company used it or achieved a particular result.
+Some pages describe areas of practical production experience. Others are examples I made to understand a process or organize the work. A sample checklist or workflow is not evidence that a particular company used it or achieved a particular result.
 
-I make mistakes like anyone else. When something goes wrong, I believe in being clear about what is known, keeping the right people informed, taking responsibility for my part and working toward a safe fix. Blaming someone does not restore a service.
+I make mistakes like anyone else. When something goes wrong, I try to be clear about what is known, keep the right people informed, take responsibility for my part and work toward a safe fix. Blaming someone does not restore a service.
 
 ## What this repository covers
 
@@ -55,7 +55,7 @@ A useful handover should tell the next person what happened, what has already be
 
 The management section includes references for incident handling, task prioritization, team coordination, vendor/SLA follow-up, asset lifecycle, procurement and operational reporting.
 
-Some entries are sample workflows and templates. They are there to show how I would organize the work, not to claim a specific team size, budget authority, reporting line, KPI result or project outcome. I will only add those details where I can support them with real experience and where sharing them is appropriate.
+Some entries are sample workflows and templates. They are there to help explain how I think about organizing the work, not to claim a specific team size, budget authority, reporting line, KPI result or project outcome. I will only add those details where I can support them with real experience and where sharing them is appropriate.
 
 ## Evidence labels
 
@@ -64,17 +64,7 @@ Some entries are sample workflows and templates. They are there to show how I wo
 - **Lab/demo:** An independent example for learning or demonstrating a task.
 - **Template:** A starting point that needs to be adjusted to the organization's own process.
 
-New and updated pages use the [documentation guide](./DOCUMENTATION-GUIDE.md), with the aim of explaining the purpose, scope, steps, troubleshooting, verification and lessons learned.
-
-## Related portfolios
-
-- [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio)
-- [GitHub Profile](https://github.com/thnayem)
-
-## Keep private information private
-
-Do not publish credentials, public IPs, internal hostnames, camera addresses, serial numbers, personal attendance data, customer records or employer-confidential documents. Use sanitized examples and documentation-only address ranges. Check screenshots and configuration snippets before committing them.
+New and updated pages use the [documentation guide](./DOCUMENTATION-GUIDE.md). I try to keep the purpose, scope, steps, troubleshooting and verification clear, and to note what I learned along the way.
 
 ## Related portfolios
 
@@ -82,5 +72,9 @@ Do not publish credentials, public IPs, internal hostnames, camera addresses, se
 - [System & Server Administration](https://github.com/thnayem/system-server-virtualization-portfolio)
 - [GitHub profile](https://github.com/thnayem)
 - [LinkedIn](https://www.linkedin.com/in/thnayem/)
+
+## Keep private information private
+
+Do not publish credentials, public IPs, internal hostnames, camera addresses, serial numbers, personal attendance data, customer records or employer-confidential documents. Use sanitized examples and documentation-only address ranges. Check screenshots and configuration snippets before committing them.
 
 Maintained by [Md. Tanvir Hossain](https://github.com/thnayem) · [LinkedIn](https://www.linkedin.com/in/thnayem/)
