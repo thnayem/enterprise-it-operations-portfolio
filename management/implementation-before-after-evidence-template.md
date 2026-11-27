@@ -81,3 +81,7 @@ If no quantified evidence exists, describe the verified operational result witho
 Before publishing, remove credentials, tokens, private keys, internal hostnames, public management IPs, customer/provider names, circuit IDs, serial numbers, MAC addresses, personal information, commercial terms, and screenshots containing sensitive browser or ticket details.
 
 If the organization has not approved the evidence for public release, publish only a generic workflow or fictional lab demo and label it clearly.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
