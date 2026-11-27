@@ -15,7 +15,7 @@ Capture:
 - Escalation, workaround and resolution.
 - User confirmation and follow-up actions.
 
-For significant or recurring incidents, use the [Incident RCA & Post-Incident Review Template](incident-rca-post-incident-review-template.md) to document the timeline, evidence, confirmed root cause, corrective actions and lessons learned. Do not guess a root cause when evidence is incomplete.
+For significant or recurring incidents, use the [Incident RCA & Post-Incident Review Template](incident-rCA-post-incident-review-template.md) to document the timeline, evidence, confirmed root cause, corrective actions and lessons learned. Do not guess a root cause when evidence is incomplete.
 
 ## Change Record
 
