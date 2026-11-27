@@ -62,3 +62,7 @@ The two platforms can coexist where there is a clear operational reason, but dup
 
 - [LibreNMS Documentation](https://docs.librenms.org/)
 - [Cacti Documentation](https://docs.cacti.net/)
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
