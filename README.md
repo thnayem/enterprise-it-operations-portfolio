@@ -40,6 +40,7 @@ This repository is part of my broader IT infrastructure portfolio. It presents t
 - [Face & Fingerprint Attendance](attendance-systems/README.md)
 - [Operations Runbooks](operations/README.md)
 - [IT Management & Team Operations](management/README.md) - capacity planning, data centre and DR, UPS and power continuity, solar, cooling, rack infrastructure, vendor/SLA, asset inventory, procurement, toner/consumables and team leadership
+- [Leadership & Operations Playbook](management/leadership-and-operations-playbook.md) - incident management, people coordination, time management, documentation, vendor escalation, implementation and post-incident review
 
 ## Management & Operational Practices
 
@@ -62,4 +63,4 @@ The management references cover the planning and coordination work behind day-to
 
 ## About
 
-This portfolio is intended to demonstrate practical understanding of enterprise IT operations and technical coordination across infrastructure and business systems. Specific production environments are not identified. Example procedures are references and must be validated against the actual hardware, firmware, licensing and organizational change process before use.
+This portfolio is intended to demonstrate practical understanding of enterprise IT operations and technical coordination across infrastructure and business systems. Specific production environments are not identified. Example procedures are references and must be validated against the actual hardware, firmware, licensing and organizational change process.
