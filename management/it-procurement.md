@@ -66,3 +66,7 @@ Apply the organization's approved scoring and conflict-of-interest rules. Do not
 Verify model, quantity, serials, accessories, license entitlements and physical condition against the purchase order. Run agreed functional tests, record exceptions and obtain sign-off from the responsible service owner.
 
 Keep quotations, purchase orders, pricing, approvals and supplier correspondence in approved internal systems. Do not publish confidential commercial information.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
