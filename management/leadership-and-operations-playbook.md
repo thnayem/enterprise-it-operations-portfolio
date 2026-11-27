@@ -128,3 +128,7 @@ If the cause is not confirmed, I would rather say that than write a confident bu
 I want to become better at planning work, supporting colleagues, handling difficult incidents and communicating with people who are not technical. I will not know every answer, and I do not expect anyone else to. What matters to me is being honest about the situation, taking responsibility for my part and making sure the team learns something useful from the work.
 
 The templates here should be adjusted to the organization's real policies, authority, team size and service commitments.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
