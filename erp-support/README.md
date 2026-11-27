@@ -55,5 +55,5 @@ The objective is to restore business service safely, collect useful diagnostic i
 
 ## Related References
 
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization)
+- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio)
 - [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
