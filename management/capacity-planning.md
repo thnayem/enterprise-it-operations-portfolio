@@ -83,3 +83,7 @@ Use a growth rate supported by historical measurements or an agreed business for
 ## Review output
 
 A useful capacity review ends with a short decision paper: current state, trend, forecast, service risk, options, estimated cost, recommendation, approval owner and target date. Record what was approved and compare actual utilization after delivery.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
