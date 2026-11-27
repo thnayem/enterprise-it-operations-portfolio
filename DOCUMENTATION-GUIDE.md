@@ -60,3 +60,7 @@ flowchart TD
 Explain how a task was prioritized, who needed to be involved, how the handover worked and what happened afterward. Do not invent team sizes, budgets, savings, MTTR, uptime or SLA results. If you use sample data to show a form, label it as an example.
 
 Keep customer data, personal attendance records, camera addresses, internal phone numbers, credentials, contracts, vendor ticket IDs, private diagrams and employer documents out of public pages. Use fictional values where an example needs them.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
