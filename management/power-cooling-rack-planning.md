@@ -208,3 +208,7 @@ Document the design assumptions, measured baseline, options, risks, estimated co
 Electrical distribution, generator, PV, battery, cooling and structural rack work can create serious safety risks. Use qualified electrical/HVAC/structural professionals and follow applicable regulations and manufacturer instructions.
 
 Do not publish real circuit identifiers, facility diagrams, access arrangements, exact rack elevations, serial numbers, energy bills, security controls or vendor commercial terms in a public portfolio.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
