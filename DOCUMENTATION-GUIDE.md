@@ -1,30 +1,31 @@
-# Documentation Guide - Enterprise IT Operations
+# How I document IT operations
 
-Use this structure for monitoring, telephony, CCTV/NVR, fiber, ERP, endpoint support, vendor management and IT operations pages.
+These notes are for services such as monitoring, telephony, CCTV/NVR, fiber, ERP, endpoint support and vendor coordination. I want the reader to understand what the service does, what can go wrong and who needs to be involved when it does.
 
-## Evidence labels
+## Be clear about the source
 
 - **Production experience:** Work I have been involved in, described without confidential details.
-- **Sanitized reference:** A reduced or anonymized procedure/configuration.
-- **Lab/demo:** An independently authored example for learning or demonstrating a workflow.
-- **Template:** A reusable form or checklist, not a completed company record.
-- **Planning reference:** An estimate or design method whose assumptions must be stated.
+- **Sanitized reference:** A procedure or configuration with identifying information removed.
+- **Lab/demo:** A separate example used to learn or demonstrate a process.
+- **Template:** A form or checklist that still needs to be adapted.
+- **Planning reference:** An estimate or design approach with its assumptions stated.
 
-Never present a sample workflow, fictional ticket or lab as an actual production result.
+A sample ticket is not a real incident. A checklist does not prove that a project was completed. Keep those distinctions clear.
 
-## Page structure
+## What I try to cover
 
-1. **Purpose and business impact** - Which service or user need does this support?
-2. **Scope and evidence** - Production experience, sanitized reference, lab/demo or template.
-3. **Architecture/workflow** - Mermaid diagram showing users, systems, network, vendor or service dependencies.
-4. **Prerequisites** - Access, approvals, licensing, support contract, maintenance window and dependencies.
-5. **Configuration/procedure** - Ordered steps with safe placeholders.
-6. **Troubleshooting** - Symptoms, evidence, possible causes, escalation and safe next step.
-7. **Verification and acceptance** - Technical check plus user/service-owner confirmation.
-8. **Rollback/recovery** - Recovery action, owner and trigger.
-9. **Operations ownership** - Who monitors, responds, communicates and reviews the service.
-10. **What I learned** - A practical lesson, limitation or improvement to test.
-11. **References** - Vendor documentation and related pages.
+Not every page needs every item below. Include what a person needs to understand or carry out the work.
+
+1. Which service or user need is involved?
+2. Who or what depends on it?
+3. What access, approval, license, contract or maintenance window is needed?
+4. What are the steps, in the order they should happen?
+5. What does a fault look like, and what evidence should be collected?
+6. When should another team or vendor be involved?
+7. How will the technical result be checked?
+8. Who can confirm that the service is working for users?
+9. What is the rollback or recovery option?
+10. Which vendor documents or related notes should the reader consult?
 
 ## Example service workflow
 
@@ -44,20 +45,18 @@ flowchart TD
 
 ## Example incident record
 
-| Field | Record |
+| Field | What to record |
 |---|---|
-| Service/asset | Use an approved internal identifier; do not expose it publicly |
-| Impact | Users, location, service and business effect |
-| Timeline | Detection, acknowledgement, action, recovery |
+| Service/asset | Use an approved internal reference; do not expose it publicly |
+| Impact | Affected users, location, service and business effect |
+| Timeline | When it was noticed, acknowledged, worked on and restored |
 | Evidence | Redacted logs, monitoring and test results |
-| Owner | Role or team, not personal contact details |
-| Recovery | Action taken and validation |
-| Follow-up | Action, owner and due date |
+| Owner | Responsible role or team |
+| Recovery | What was done and how it was checked |
+| Follow-up | Next action, owner and due date |
 
-## Management and people practices
+## When writing about management work
 
-Describe how work is prioritized, delegated, handed over and reviewed. Do not invent team sizes, budgets, savings, MTTR, uptime or SLA achievements. Use clearly marked sample data when demonstrating a template. Explain where an example should be adapted to an organization's policies and actual authority structure.
+Explain how a task was prioritized, who needed to be involved, how the handover worked and what happened afterward. Do not invent team sizes, budgets, savings, MTTR, uptime or SLA results. If you use sample data to show a form, label it as an example.
 
-## Security and privacy
-
-Do not publish customer data, personal attendance records, camera addresses, internal phone numbers, credentials, contracts, vendor ticket IDs, private diagrams or employer documents. Use fictional sample values and state when a diagram is illustrative.
+Keep customer data, personal attendance records, camera addresses, internal phone numbers, credentials, contracts, vendor ticket IDs, private diagrams and employer documents out of public pages. Use fictional values where an example needs them.
