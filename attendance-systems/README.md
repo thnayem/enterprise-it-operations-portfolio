@@ -42,5 +42,5 @@ Biometric identifiers are sensitive personal data. Collect and process them only
 
 ## Related References
 
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization)
+- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio)
 - [Enterprise IT Operations Portfolio Home](../README.md)
