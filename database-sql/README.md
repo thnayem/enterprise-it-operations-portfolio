@@ -71,3 +71,7 @@ Use prepared statements and bind parameters through the application database dri
 ## Safety
 
 Examples in this repository are read-only. Never run UPDATE, DELETE, DROP, TRUNCATE or schema-changing statements in production without authorization, a reviewed change plan, a verified backup and a rollback strategy. Never publish database dumps, credentials, personal information or production schema details.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
