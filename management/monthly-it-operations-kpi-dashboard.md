@@ -104,3 +104,7 @@ A successful backup job is not the same as a successful restore test.
 - Report both percentage and count; a high percentage based on very few tickets can mislead.
 - Show trend over several months when enough comparable data exists.
 - Protect employee-level performance and personal data; share aggregated reporting with the appropriate audience.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
