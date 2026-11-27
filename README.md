@@ -3,11 +3,11 @@
 **Md. Tanvir Hossain**  
 Enterprise IT Infrastructure | IT Operations | Service Coordination
 
-A lot of IT work happens in the background. A phone stops registering, a camera loses connection, a user cannot access a shared folder, or an application becomes slow. I have been involved in these kinds of day-to-day issues alongside network and server work, and I wanted one place to keep useful notes about them.
+This repository covers the day-to-day services that keep an organization running: telephony, CCTV, fiber, monitoring, email, endpoint support, ERP, databases and attendance systems. It also includes working notes on incidents, vendors, assets and team coordination.
 
-This repository covers the wider side of IT operations: telephony, CCTV, fiber connectivity, monitoring, email, endpoint support, ERP, databases, attendance systems and the infrastructure that supports office services. It also includes notes on incidents, vendors, assets and team coordination.
+Some pages reflect areas I have supported at work; others are study notes, lab examples or reusable checklists. A template is a starting point, not proof that a particular process was formally used by an employer.
 
-Some of the material comes from areas I have supported at work. Other pages are study notes, lab examples or checklists I put together to make a process easier to follow. A template is a starting point, not a record of a project or a claim that a particular process was used by an employer.
+![Enterprise IT operations overview](./docs/it-operations-overview.svg)
 
 ## What is here
 
@@ -68,13 +68,6 @@ Please check the product model, software version and your own organization's pol
 - [GitHub profile](https://github.com/thnayem)
 - [LinkedIn](https://www.linkedin.com/in/thnayem/)
 
-Maintained by [Md. Tanvir Hossain](https://github.com/thnayem) · [LinkedIn](https://www.linkedin.com/in/thnayem/)
+## Authorship
 
-
-## Authorship, AI assistance and real-world work
-
-The technical work documented here is my own. The decisions, hands-on work, troubleshooting, lab activities, implementation experience and production-related context come from my real work and learning. I do not use AI to invent configurations, incidents, technical results, deployment history or experience claims.
-
-I have used AI assistance in a limited editorial role for some template-style wording, sentence structure and phrasing, and to help organize formal or licensing-related disclaimers and documentation layouts. That assistance does not make the underlying technical work, decisions, lab activity or production experience AI-generated. I remain responsible for the accuracy of what I publish, and I try to distinguish clearly between work I handled in production, sanitized references, and examples I built or tested in a lab.
-
-Some pages use familiar ITSM, ITIL or other framework terminology where it helps explain a process or meet a documentation need. Those references are organizational language, not a claim that every framework was formally adopted or followed in a particular workplace. I prefer practical evidence and honest context over textbook wording or claims that sound impressive but cannot be backed up.
+The technical work and experience described here are mine. I sometimes use AI to edit wording or organize documentation, but not to replace hands-on work or technical judgement. I review what I publish and take responsibility for it.
