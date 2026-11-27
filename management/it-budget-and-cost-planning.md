@@ -102,3 +102,7 @@ Define scoring rules before evaluating suppliers. Technical compliance and manda
 ## 8. Governance
 
 Follow the organization's delegated financial authority, procurement policy, competitive quotation rules, asset capitalization policy, tax treatment, security review, and segregation-of-duties requirements. Technical recommendation, commercial evaluation, approval, receipt, and payment should have appropriate independent checks.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
