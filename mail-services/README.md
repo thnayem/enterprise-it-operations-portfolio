@@ -102,3 +102,7 @@ DNS values must come from the actual mail provider and domain administrator. Inc
 
 - [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio)
 - [Enterprise IT Operations Portfolio Home](../README.md)
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
