@@ -81,3 +81,7 @@ This is a simplified decimal estimate before RAID, filesystem, free-space, metad
 ## Privacy & Security
 
 Video footage and camera metadata can be sensitive. Restrict live view, playback, export and administration by role. Use strong credentials, secure management access, retention policy and audit logging. Do not upload real camera lists, footage, credentials, site maps or private IP allocations to a public repository.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
