@@ -6,6 +6,15 @@ This repository collects practical references for the systems and services that 
 
 The focus is not only on the technology. It is also on service ownership, clear handovers, incident coordination, documentation, vendor follow-up and keeping work understandable for the next person.
 
+## Important context: practical experience vs. published material
+
+The real-world, hands-on production experience behind this portfolio is broader than what is documented here. This repository is only a selected glimpse of the systems, support activities, operational challenges and lessons I have encountered. It is not a complete record of my work, and there is more experience I have not yet added.
+
+I do not publish original employer/customer production configurations, internal records, credentials, personal data, raw backups or confidential documents. The material here is made up of study and learning notes, independently prepared examples, lab/demo exercises, troubleshooting scenarios, implementation practice, reusable templates and selected lessons from practical operations. Where I describe production involvement, I keep it at a safe, high level. Templates and illustrative workflows are not claims that a particular organization used them or achieved a specific result.
+
+I can make mistakes. I believe the right response is not to hide them or shift blame, but to acknowledge the issue, take responsibility, communicate with the people affected, work toward a safe correction and learn from what happened. In IT operations, accountability, teamwork and clear communication matter just as much as technical knowledge.
+
+
 ## Five-minute overview
 
 - **Technical operations:** IP telephony, CCTV/NVR, fiber connectivity, monitoring, mail services, ERP support, database references and endpoint support.
