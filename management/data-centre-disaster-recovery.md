@@ -75,3 +75,7 @@ Run tabletop reviews and technical recovery tests at an agreed frequency. Record
 | Retest date | |
 
 A plan is not proven until recovery has been exercised and the result reviewed. Do not publish internal recovery credentials, live topology, backup locations or sensitive facility details.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
