@@ -119,3 +119,7 @@ Do not publish or claim MTTR, SLA or availability improvements without a reliabl
 - [ ] Remove vendor ticket contents, contracts and internal screenshots unless approved.
 - [ ] Obtain authorization before publishing any incident-derived material.
 - [ ] Label hypothetical examples and templates clearly.
+
+---
+
+**A note on this documentation:** The technical work and experience behind these notes are mine. Some wording and the way I have organized the material have had AI assistance, mainly to make the writing clearer and save time. The examples, decisions and work described are not AI-generated. I check what I publish and stand behind it.
