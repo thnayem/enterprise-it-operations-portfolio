@@ -41,4 +41,4 @@ Never look into a fiber connector or optical transceiver. Inspect and clean conn
 ## Related References
 
 - [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization)
+- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio)
