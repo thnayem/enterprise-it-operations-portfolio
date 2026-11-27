@@ -160,6 +160,6 @@ Record device asset ID, model, previous and new RAM/storage specifications, inst
 
 ## Related References
 
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization)
+- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio)
 - [Network Engineering Portfolio](https://github.com/thnayem/network-engineering-portfolio)
 - [Enterprise IT Operations Portfolio Home](../README.md)
