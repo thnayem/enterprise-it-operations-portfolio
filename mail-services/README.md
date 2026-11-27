@@ -100,5 +100,5 @@ DNS values must come from the actual mail provider and domain administrator. Inc
 
 ## Related References
 
-- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization)
+- [System & Server Virtualization Portfolio](https://github.com/thnayem/system-server-virtualization-portfolio)
 - [Enterprise IT Operations Portfolio Home](../README.md)
